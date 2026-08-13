@@ -1,0 +1,10 @@
+bin/
+obj/
+release-v*/
+release-package/
+.vs/
+.idea/
+*.user
+*.suo
+*.tmp
+*.log
